@@ -3,7 +3,7 @@
 UX design, CSS, Javascript
 
 - 🌱 I’m currently learning ...
-HTML, CSS, Javascript
+HTML, CSS, Javascript, Git, Claude Code, Cursor
 
 - 💞️ I’m looking to collaborate on ...
 Any kind of web design project
